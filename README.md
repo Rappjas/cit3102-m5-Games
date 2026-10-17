@@ -1,7 +1,9 @@
+#CIT3102-Midterm-Activity2
 # Games API
 
-**Section:** IT3E
-**Resource:** Game (title, genre, platform, price, release_year)
+**Name:** Juan Rafael S. Avelino<br>
+**Section:** IT3E<br>
+**Resource:** Game (title, genre, platform, price, release_year)<br>
 
 ## Setup
 1. composer install
@@ -48,4 +50,4 @@
 ... through 10
 
 ## Why does DELETE return 204?
-Delete returns 204 because, the request was sent but, there was nothing to send back to the client. The 200 response is a successful request and it sends back a body based on the request.
+Delete returns 204 because, the request was sent but, there was nothing to send back to the client. The 200 response is a successful request and it sends back a body based on the request. I have only one game created, therefore sending a blank body and it is not classified as a bug due to the response beginning with 2.
