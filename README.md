@@ -1,5 +1,5 @@
-#CIT3102-Midterm-Activity2
-# Games API
+# CIT 3102: Systems Integration and Architecture (Midterms - Activity 2)
+# CIT3102-M5-Games
 
 **Name:** Juan Rafael S. Avelino<br>
 **Section:** IT3E<br>
